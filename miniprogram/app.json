@@ -4,16 +4,17 @@
     "pages/qrcode/qrcode",
     "pages/personal/personal",
     "pages/viruslist/viruslist",
+
     "pages/virusdetail/virusdetail",
     "pages/virusmap/virusmap",
     "pages/registerstatus/registerstatus",
+    "pages/registervisitor/registervisitor",
     "pages/punchcardlist/punchcardlist",
     "pages/punchcardcheckin/punchcardcheckin",
-    "pages/punchcardwarn/punchcardwarn",
+    "pages/punchcardstatus/punchcardstatus",
     "pages/personaldetails/personaldetails",
-    "pages/commoditydetail/commoditydetail",
-    "pages/issuecommodity/issuecommodity",
-    "pages/punchcardstatus/punchcardstatus"
+    "pages/commodity/commodity",
+    "pages/replenish/replenish"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
@@ -48,7 +49,7 @@
   },
   "permission": {
     "scope.userLocation": {
-      "desc": "你的位置信息将用于新型冠状病毒位置获取~"
+      "desc": "你的位置信息将用于新型冠状病毒位置获取~" 
     }
   },
   "sitemapLocation": "sitemap.json",

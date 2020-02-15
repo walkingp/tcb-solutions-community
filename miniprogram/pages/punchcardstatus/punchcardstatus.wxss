@@ -78,4 +78,4 @@
 }
 .button.btn-warn{  
   background-image: linear-gradient(to right, #EC5C3B , #F6C24E);
-}
+}/* pages/punchcardstatus/punchcardstatus.wxss */
